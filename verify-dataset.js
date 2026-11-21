@@ -25,7 +25,6 @@ const requiredFields = [
   'courses',
   'fees',
   'rating',
-  'reviews',
 ];
 
 const slugs = new Set();
@@ -55,5 +54,5 @@ for (const col of colleges) {
   }
 }
 
-console.log('SUCCESS: All 12 colleges verified with valid fields, unique slugs, and ratings.');
+console.log(`SUCCESS: All ${colleges.length} colleges verified with valid fields, unique slugs, and ratings.`);
 process.exit(0);

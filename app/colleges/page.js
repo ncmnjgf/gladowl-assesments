@@ -28,6 +28,8 @@ function CollegeListingContent() {
 
   // Sync state when URL params change
   useEffect(() => {
+    // Filter state must follow client-side navigation to a new query string.
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     if (searchParams.get('search') !== null) setSearch(searchParams.get('search'));
     if (searchParams.get('city') !== null) setSelectedCity(searchParams.get('city'));
     if (searchParams.get('category') !== null) {
@@ -105,6 +107,8 @@ function CollegeListingContent() {
 
   // Reset pagination when filters change
   useEffect(() => {
+    // Reset the visible result window after each filter/sort change.
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setVisibleCount(ITEMS_PER_PAGE);
   }, [search, selectedCity, selectedCategories, institutionType, sortBy]);
 

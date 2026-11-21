@@ -14,6 +14,8 @@ export function WishlistProvider({ children }) {
     try {
       const stored = localStorage.getItem('educompass_wishlist');
       if (stored) {
+        // Read browser-only state after hydration to keep server and client markup identical.
+        // eslint-disable-next-line react-hooks/set-state-in-effect
         setWishlist(JSON.parse(stored));
       }
     } catch (e) {

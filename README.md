@@ -9,8 +9,8 @@ EduCompass is a modern, responsive, and student-focused college discovery web ap
 
 ## 1. Project Overview & Live Links
 
-- **Live Deployed URL:** `https://your-deployment-url.vercel.app`
-- **GitHub Repository:** `https://github.com/your-username/educompass-college-discovery`
+- **Live Deployed URL:** Add the Vercel URL after the first successful deployment.
+- **GitHub Repository:** https://github.com/ncmnjgf/gladowl-assesments
 - **Primary Technology Stack:** Next.js 16 (App Router), React 19, JavaScript (ES6+), Tailwind CSS, Lenis Smooth Scroll, GSAP, Lucide Icons.
 
 ---
@@ -139,13 +139,13 @@ college-finder/
 ## 6. Installation & Local Setup
 
 ### Prerequisites
-- Node.js (v18 or higher recommended)
+- Node.js 20.9 or newer (required by Next.js 16)
 - npm or yarn
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/educompass-college-discovery.git
-cd educompass-college-discovery/college-finder
+git clone https://github.com/ncmnjgf/gladowl-assesments.git
+cd gladowl-assesments
 ```
 
 ### 2. Install dependencies
