@@ -1,0 +1,402 @@
+[
+  {
+    "id": "col-1",
+    "name": "ABC Institute of Technology",
+    "slug": "abc-institute-of-technology",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "category": "Engineering",
+    "image": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=800&q=80",
+    "description": "An autonomous engineering institution offering advanced programs in technology, computer science, and applied robotics.",
+    "longDescription": "ABC Institute of Technology is an illustrative premier engineering academy located in the tech corridor of Pune. The institute delivers cutting-edge programs across computer science, electronics, and mechanical engineering with dedicated incubation labs and strong corporate affiliations.",
+    "courses": ["B.Tech Computer Science", "B.Tech Robotics & Automation", "M.Tech Data Engineering", "B.Tech Electronics"],
+    "fees": "₹2,20,000 / year",
+    "rating": 4.8,
+    "established": 1994,
+    "accreditation": "NAAC A++ (Sample Grade)",
+    "reviewsCount": 380,
+    "featured": true,
+    "highlights": ["Industry Apprenticeship Program", "Autonomous Research Labs", "95% Placement Record", "Global Tech Incubation"],
+    "coursesOffered": [
+      {
+        "name": "B.Tech Computer Science",
+        "degree": "Undergraduate",
+        "duration": "4 Years",
+        "description": "Comprehensive engineering curriculum covering algorithms, cloud architecture, and full-stack development."
+      },
+      {
+        "name": "B.Tech Robotics & Automation",
+        "degree": "Undergraduate",
+        "duration": "4 Years",
+        "description": "Hands-on robotics hardware, mechatronics, industrial IoT, and real-time control systems."
+      },
+      {
+        "name": "M.Tech Data Engineering",
+        "degree": "Postgraduate",
+        "duration": "2 Years",
+        "description": "Advanced scalable data pipelines, machine learning infrastructure, and distributed databases."
+      }
+    ],
+    "feeSchedule": [
+      { "course": "B.Tech Computer Science", "duration": "4 Years", "fee": "₹2,20,000 / year (Sample)" },
+      { "course": "B.Tech Robotics & Automation", "duration": "4 Years", "fee": "₹2,10,000 / year (Sample)" },
+      { "course": "M.Tech Data Engineering", "duration": "2 Years", "fee": "₹1,85,000 / year (Sample)" }
+    ]
+  },
+  {
+    "id": "col-2",
+    "name": "Western Business University",
+    "slug": "western-business-university",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "type": "Private",
+    "category": "Management",
+    "image": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=800&q=80",
+    "description": "Premier corporate business school situated in Mumbai's commercial hub, renowned for leadership and finance.",
+    "longDescription": "Western Business University is an illustrative flagship management school in Mumbai designed to cultivate modern entrepreneurial talent. The curriculum blends Harvard-style case analysis with strategic enterprise internships in banking, consulting, and global supply chains.",
+    "courses": ["Master of Business Administration (MBA)", "BBA Finance & Analytics", "Executive MBA", "PGDM Marketing"],
+    "fees": "₹6,80,000 / year",
+    "rating": 4.9,
+    "established": 1982,
+    "accreditation": "EQUIS Accredited (Sample)",
+    "reviewsCount": 512,
+    "featured": true,
+    "highlights": ["100% Corporate Placement", "International Exchange Alliances", "Incubation Venture Fund", "Executive Mentorship"],
+    "coursesOffered": [
+      {
+        "name": "Master of Business Administration (MBA)",
+        "degree": "Postgraduate",
+        "duration": "2 Years",
+        "description": "Specializations in Financial Markets, Marketing Strategy, and Organizational Leadership."
+      },
+      {
+        "name": "BBA Finance & Analytics",
+        "degree": "Undergraduate",
+        "duration": "3 Years",
+        "description": "Analytical foundation combining corporate accounting, fintech tools, and business metrics."
+      }
+    ],
+    "feeSchedule": [
+      { "course": "Master of Business Administration (MBA)", "duration": "2 Years", "fee": "₹6,80,000 / year (Sample)" },
+      { "course": "BBA Finance & Analytics", "duration": "3 Years", "fee": "₹3,40,000 / year (Sample)" }
+    ]
+  },
+  {
+    "id": "col-3",
+    "name": "National College of Science",
+    "slug": "national-college-of-science",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "type": "Public",
+    "category": "Science",
+    "image": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?auto=format&fit=crop&w=800&q=80",
+    "description": "Leading research institution dedicated to pure scientific inquiry, quantum computing, and biotechnology.",
+    "longDescription": "National College of Science is an illustrative public institute founded in Bengaluru to advance scientific research. With expansive cleanrooms, advanced microscopy suites, and collaborative research grants, students work alongside celebrated researchers on high-impact publications.",
+    "courses": ["B.Sc Data Science & Computing", "Integrated M.Sc Physics", "B.Sc Biotechnology", "Ph.D Quantum Materials"],
+    "fees": "₹45,000 / year",
+    "rating": 4.9,
+    "established": 1970,
+    "accreditation": "NIRF Research #1 (Sample)",
+    "reviewsCount": 420,
+    "featured": true,
+    "highlights": ["Sahasra Computing Hub", "Government Research Grants", "Pure Science Fellowships", "Biodiversity Campus"],
+    "coursesOffered": [
+      {
+        "name": "B.Sc Data Science & Computing",
+        "degree": "Undergraduate",
+        "duration": "3 Years",
+        "description": "Rigorous mathematics, statistical machine learning, algorithms, and computational modeling."
+      },
+      {
+        "name": "Integrated M.Sc Physics",
+        "degree": "Integrated Masters",
+        "duration": "5 Years",
+        "description": "Theoretical physics, quantum mechanics, astrophysics, and laboratory instrumentation."
+      }
+    ],
+    "feeSchedule": [
+      { "course": "B.Sc Data Science & Computing", "duration": "3 Years", "fee": "₹45,000 / year (Sample)" },
+      { "course": "Integrated M.Sc Physics", "duration": "5 Years", "fee": "₹55,000 / year (Sample)" }
+    ]
+  },
+  {
+    "id": "col-4",
+    "name": "Horizon Institute of Management",
+    "slug": "horizon-institute-of-management",
+    "city": "Delhi",
+    "state": "Delhi",
+    "type": "Private",
+    "category": "Management",
+    "image": "https://images.unsplash.com/photo-1590579491624-f98f36d4c763?auto=format&fit=crop&w=800&q=80",
+    "description": "Distinguished capital business school focusing on international trade, public policy, and corporate strategy.",
+    "longDescription": "Horizon Institute of Management provides executive business programs situated in South Delhi. Its close proximity to global embassy trade councils and central economic think tanks offers unmatched corporate and geopolitical networking for aspiring managers.",
+    "courses": ["MBA International Business", "PGDM Corporate Strategy", "BBA Digital Marketing"],
+    "fees": "₹5,20,000 / year",
+    "rating": 4.7,
+    "established": 1998,
+    "accreditation": "AICTE Approved (Sample)",
+    "reviewsCount": 290,
+    "featured": true,
+    "highlights": ["Global Trade Immersion", "Capitol Policy Thinktank", "Executive Mentoring Network", "Modern Smart Classrooms"],
+    "coursesOffered": [
+      {
+        "name": "MBA International Business",
+        "degree": "Postgraduate",
+        "duration": "2 Years",
+        "description": "Cross-border finance, international supply chains, corporate negotiation, and global marketing."
+      }
+    ],
+    "feeSchedule": [
+      { "course": "MBA International Business", "duration": "2 Years", "fee": "₹5,20,000 / year (Sample)" }
+    ]
+  },
+  {
+    "id": "col-5",
+    "name": "Central Institute of Engineering",
+    "slug": "central-institute-of-engineering",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "type": "Public",
+    "category": "Engineering",
+    "image": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=800&q=80",
+    "description": "Historic public technology university specializing in artificial intelligence, chip design, and civil systems.",
+    "longDescription": "Central Institute of Engineering is an illustrative public institution in Hyderabad known for pioneering semiconductor research and software engineering. It maintains high placement ratios across multinational tech centers in HITEC City.",
+    "courses": ["B.Tech Artificial Intelligence", "B.Tech VLSI & Chip Design", "B.Tech Civil Engineering"],
+    "fees": "₹1,15,000 / year",
+    "rating": 4.6,
+    "established": 1968,
+    "accreditation": "NAAC A+ (Sample)",
+    "reviewsCount": 640,
+    "featured": false,
+    "highlights": ["Semiconductor Cleanroom", "HITEC City Industry Linkages", "Historic Alumni Network", "Open-Source Innovation Hub"],
+    "coursesOffered": [
+      {
+        "name": "B.Tech Artificial Intelligence",
+        "degree": "Undergraduate",
+        "duration": "4 Years",
+        "description": "Neural architectures, computer vision, natural language processing, and ethical AI deployment."
+      }
+    ],
+    "feeSchedule": [
+      { "course": "B.Tech Artificial Intelligence", "duration": "4 Years", "fee": "₹1,15,000 / year (Sample)" }
+    ]
+  },
+  {
+    "id": "col-6",
+    "name": "Greenfield College of Arts",
+    "slug": "greenfield-college-of-arts",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "category": "Arts",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=800&q=80",
+    "description": "Celebrated liberal arts and communication college cultivating creative authors, journalists, and visual designers.",
+    "longDescription": "Greenfield College of Arts offers an immersive liberal arts curriculum overlooking the coastal shores of Chennai. The institution champions critical thinking, creative writing, cinema studies, and multimedia journalism.",
+    "courses": ["B.A. English Literature", "B.A. Journalism & Media", "B.Des Visual Communication"],
+    "fees": "₹1,40,000 / year",
+    "rating": 4.5,
+    "established": 1988,
+    "accreditation": "UGC Recognized (Sample)",
+    "reviewsCount": 210,
+    "featured": false,
+    "highlights": ["Coastal Campus Studios", "Broadcast Media Recording Lab", "Annual Literature Festival", "Liberal Arts Diversity"],
+    "coursesOffered": [
+      {
+        "name": "B.Des Visual Communication",
+        "degree": "Undergraduate",
+        "duration": "4 Years",
+        "description": "Graphic design, typography, film editing, and interactive digital interfaces."
+      }
+    ],
+    "feeSchedule": [
+      { "course": "B.Des Visual Communication", "duration": "4 Years", "fee": "₹1,40,000 / year (Sample)" }
+    ]
+  },
+  {
+    "id": "col-7",
+    "name": "Apex Medical Academy",
+    "slug": "apex-medical-academy",
+    "city": "Delhi",
+    "state": "Delhi",
+    "type": "Public",
+    "category": "Medical",
+    "image": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=800&q=80",
+    "description": "Premier government medical college and tertiary teaching hospital with world-class trauma and clinical units.",
+    "longDescription": "Apex Medical Academy is an illustrative public healthcare institution with extensive clinical training facilities in New Delhi. It features modern diagnostic labs, surgical simulation theaters, and extensive community healthcare residency rotations.",
+    "courses": ["MBBS", "MD General Medicine", "MS General Surgery", "B.Sc Nursing"],
+    "fees": "₹28,000 / year",
+    "rating": 4.9,
+    "established": 1960,
+    "accreditation": "NMC Accredited (Sample)",
+    "reviewsCount": 780,
+    "featured": true,
+    "highlights": ["1,500-Bed Super Specialty Hospital", "Nominal Tuition Fee", "Surgical Simulation Labs", "Diverse Clinical Cases"],
+    "coursesOffered": [
+      {
+        "name": "MBBS",
+        "degree": "Undergraduate",
+        "duration": "5.5 Years",
+        "description": "Comprehensive medical training including pathology, pharmacology, and rotating clinical internships."
+      }
+    ],
+    "feeSchedule": [
+      { "course": "MBBS", "duration": "5.5 Years", "fee": "₹28,000 / year (Sample)" }
+    ]
+  },
+  {
+    "id": "col-8",
+    "name": "Metropolitan Institute of Technology",
+    "slug": "metropolitan-institute-of-technology",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "type": "Private",
+    "category": "Engineering",
+    "image": "https://images.unsplash.com/photo-1525921429624-479b6a26d84d?auto=format&fit=crop&w=800&q=80",
+    "description": "Technology institute in suburban Mumbai recognized for cyber security, cloud computing, and fintech labs.",
+    "longDescription": "Metropolitan Institute of Technology is an illustrative private university in Mumbai designed to bridge academia and software industry requirements. Its student software engineering clubs develop real-world enterprise applications.",
+    "courses": ["B.Tech Cybersecurity", "B.Tech Computer Science", "M.Tech Information Systems"],
+    "fees": "₹2,60,000 / year",
+    "rating": 4.5,
+    "established": 2002,
+    "accreditation": "NAAC A Grade (Sample)",
+    "reviewsCount": 310,
+    "featured": false,
+    "highlights": ["Dedicated Cyber Defense Lab", "Fintech Corporate Co-Ops", "Modern Sports Complex", "High Startup Density"],
+    "coursesOffered": [
+      {
+        "name": "B.Tech Cybersecurity",
+        "degree": "Undergraduate",
+        "duration": "4 Years",
+        "description": "Cryptography, network defense, ethical penetration testing, and security auditing."
+      }
+    ],
+    "feeSchedule": [
+      { "course": "B.Tech Cybersecurity", "duration": "4 Years", "fee": "₹2,60,000 / year (Sample)" }
+    ]
+  },
+  {
+    "id": "col-9",
+    "name": "Deccan School of Management",
+    "slug": "deccan-school-of-management",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "type": "Private",
+    "category": "Management",
+    "image": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&w=800&q=80",
+    "description": "Leading business school focusing on healthcare administration, business analytics, and supply chain.",
+    "longDescription": "Deccan School of Management is an illustrative business institution located in Hyderabad offering industry-focused management specializations with global company immersion.",
+    "courses": ["MBA Healthcare Administration", "MBA Business Analytics", "BBA Operations"],
+    "fees": "₹3,90,000 / year",
+    "rating": 4.6,
+    "established": 1992,
+    "accreditation": "AICTE Accredited (Sample)",
+    "reviewsCount": 240,
+    "featured": false,
+    "highlights": ["Healthcare Industry Incubator", "Analytics Computing Lab", "Dual Degree Options", "Alumni Network"],
+    "coursesOffered": [
+      {
+        "name": "MBA Business Analytics",
+        "degree": "Postgraduate",
+        "duration": "2 Years",
+        "description": "Predictive analytics, business intelligence dashboards, econometric modeling, and big data."
+      }
+    ],
+    "feeSchedule": [
+      { "course": "MBA Business Analytics", "duration": "2 Years", "fee": "₹3,90,000 / year (Sample)" }
+    ]
+  },
+  {
+    "id": "col-10",
+    "name": "Coastal Institute of Design & Architecture",
+    "slug": "coastal-institute-of-design",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "type": "Private",
+    "category": "Arts",
+    "image": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?auto=format&fit=crop&w=800&q=80",
+    "description": "Architecture and design institute celebrating sustainable urban planning, interior architecture, and industrial design.",
+    "longDescription": "Coastal Institute of Design is an illustrative design school in Chennai providing studio-based architecture and spatial design curricula.",
+    "courses": ["Bachelor of Architecture (B.Arch)", "B.Des Interior Architecture", "M.Arch Sustainable Design"],
+    "fees": "₹2,75,000 / year",
+    "rating": 4.7,
+    "established": 2005,
+    "accreditation": "Council of Architecture (Sample)",
+    "reviewsCount": 180,
+    "featured": false,
+    "highlights": ["Materials Prototyping Workshop", "Studio Critique Culture", "Green Building Certifications", "Design Exhibitions"],
+    "coursesOffered": [
+      {
+        "name": "Bachelor of Architecture (B.Arch)",
+        "degree": "Undergraduate",
+        "duration": "5 Years",
+        "description": "Architectural drafting, structural mechanics, sustainable urban design, and thesis studio."
+      }
+    ],
+    "feeSchedule": [
+      { "course": "Bachelor of Architecture (B.Arch)", "duration": "5 Years", "fee": "₹2,75,000 / year (Sample)" }
+    ]
+  },
+  {
+    "id": "col-11",
+    "name": "Karnataka Medical Institute",
+    "slug": "karnataka-medical-institute",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "type": "Public",
+    "category": "Medical",
+    "image": "https://images.unsplash.com/photo-1564981797816-1043664bf78d?auto=format&fit=crop&w=800&q=80",
+    "description": "Public health university and regional medical center emphasizing cardiology, pediatrics, and community health.",
+    "longDescription": "Karnataka Medical Institute is an illustrative government-affiliated medical college offering patient care internships across Bengaluru municipal clinics.",
+    "courses": ["MBBS", "MD Pediatrics", "B.Sc Medical Laboratory Technology"],
+    "fees": "₹32,000 / year",
+    "rating": 4.8,
+    "established": 1974,
+    "accreditation": "State Health University (Sample)",
+    "reviewsCount": 490,
+    "featured": false,
+    "highlights": ["Cardiac Care Research Center", "Mobile Rural Health Clinic", "Subsidized Medical Education", "High Residency Match"],
+    "coursesOffered": [
+      {
+        "name": "MBBS",
+        "degree": "Undergraduate",
+        "duration": "5.5 Years",
+        "description": "Anatomy, physiology, clinical diagnosis, and hospital ward rotations."
+      }
+    ],
+    "feeSchedule": [
+      { "course": "MBBS", "duration": "5.5 Years", "fee": "₹32,000 / year (Sample)" }
+    ]
+  },
+  {
+    "id": "col-12",
+    "name": "Pune College of Arts & Commerce",
+    "slug": "pune-college-of-arts-commerce",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Public",
+    "category": "Arts",
+    "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=800&q=80",
+    "description": "Autonomous public college celebrated for economics, commerce, literature, and competitive exam guidance.",
+    "longDescription": "Pune College of Arts & Commerce is an illustrative heritage institution in Pune offering comprehensive humanities and trade educations.",
+    "courses": ["Bachelor of Commerce (B.Com)", "B.A. Economics (Hons)", "M.Com Accountancy"],
+    "fees": "₹22,000 / year",
+    "rating": 4.6,
+    "established": 1965,
+    "accreditation": "NAAC A+ (Sample)",
+    "reviewsCount": 350,
+    "featured": false,
+    "highlights": ["Heritage Library Collection", "Civil Services Study Circle", "Economics Research Cell", "Vibrant Debate Society"],
+    "coursesOffered": [
+      {
+        "name": "B.A. Economics (Hons)",
+        "degree": "Undergraduate",
+        "duration": "3 Years",
+        "description": "Macroeconomics, public finance, monetary policy, and statistical analysis."
+      }
+    ],
+    "feeSchedule": [
+      { "course": "B.A. Economics (Hons)", "duration": "3 Years", "fee": "₹22,000 / year (Sample)" }
+    ]
+  }
+]
