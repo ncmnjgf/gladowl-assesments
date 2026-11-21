@@ -9,7 +9,7 @@ EduCompass is a modern, responsive, and student-focused college discovery web ap
 
 ## 1. Project Overview & Live Links
 
-- **Live Deployed URL:** Add the Vercel URL after the first successful deployment.
+- **Live Deployed URL:** https://gladowl-assesments.vercel.app/.
 - **GitHub Repository:** https://github.com/ncmnjgf/gladowl-assesments
 - **Primary Technology Stack:** Next.js 16 (App Router), React 19, JavaScript (ES6+), Tailwind CSS, Lenis Smooth Scroll, GSAP, Lucide Icons.
 
