@@ -63,19 +63,17 @@ EduCompass is a modern, responsive, and student-focused college discovery web ap
 
 ## 3. Screenshots of Required Screens
 
-*(Screenshots to be added before final submission)*
-
 ### 1. Homepage (`/`)
-`![EduCompass Homepage](screenshots/homepage.png)`
+![EduCompass Homepage](screenshots/homepage.png)
 
 ### 2. College Listing Page (`/colleges`)
-`![EduCompass College Listing](screenshots/colleges-listing.png)`
+![EduCompass College Listing](screenshots/colleges-listing.png)
 
 ### 3. College Detail Page (`/colleges/[slug]`)
-`![EduCompass College Details](screenshots/college-details.png)`
+![EduCompass College Details](screenshots/college-details.png)
 
 ### 4. Wishlist Page (`/wishlist`)
-`![EduCompass Wishlist](screenshots/wishlist.png)`
+![EduCompass Wishlist](screenshots/wishlist.png)
 
 ---
 
